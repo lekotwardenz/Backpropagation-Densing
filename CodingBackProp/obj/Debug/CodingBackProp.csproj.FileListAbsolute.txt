@@ -1,0 +1,9 @@
+C:\Users\leish\source\repos\CodingBackProp\bin\Debug\CodingBackProp.exe.config
+C:\Users\leish\source\repos\CodingBackProp\bin\Debug\CodingBackProp.exe
+C:\Users\leish\source\repos\CodingBackProp\bin\Debug\CodingBackProp.pdb
+C:\Users\leish\source\repos\CodingBackProp\obj\Debug\CodingBackProp.csproj.AssemblyReference.cache
+C:\Users\leish\source\repos\CodingBackProp\obj\Debug\CodingBackProp.Properties.Resources.resources
+C:\Users\leish\source\repos\CodingBackProp\obj\Debug\CodingBackProp.csproj.GenerateResource.cache
+C:\Users\leish\source\repos\CodingBackProp\obj\Debug\CodingBackProp.csproj.CoreCompileInputs.cache
+C:\Users\leish\source\repos\CodingBackProp\obj\Debug\CodingBackProp.exe
+C:\Users\leish\source\repos\CodingBackProp\obj\Debug\CodingBackProp.pdb
